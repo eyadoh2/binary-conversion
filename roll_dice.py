@@ -34,3 +34,7 @@ while True:
     if again != "y":
         print("Thank you for playing")
         break
+
+
+#just a note i created this code with the help of this video:
+#https://www.youtube.com/watch?v=yVl_G-F7m8c&t=1098s

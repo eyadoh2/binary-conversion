@@ -44,3 +44,7 @@ while True:
 
     except ValueError:
         print("Enter a number only")
+
+
+#just a note i created this code with the help of this video:
+#https://www.youtube.com/watch?v=yVl_G-F7m8c&t=1098s
